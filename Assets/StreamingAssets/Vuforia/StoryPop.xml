@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="jkao_id" size="5.000000 7.953144" />
+    <ImageTarget name="qualcom" size="5.000000 5.158730" />
+    <ImageTarget name="sadman" size="5.000000 6.783784" />
+    <ImageTarget name="github" size="5.000000 6.849514" />
+    <ImageTarget name="aws" size="5.000000 8.943418" />
+    <ImageTarget name="domain" size="5.000000 5.942761" />
     <ImageTarget name="mlh-season-18" size="3.000000 3.040000" />
-    <ImageTarget name="Euro" size="3.000000 1.635444" />
     <ImageTarget name="Chase" size="2.000000 1.927415" />
-    <ImageTarget name="mlh-logo-color" size="5.000000 2.105579" />
     <ImageTarget name="dollarTarget" size="5.000000 2.170833" />
   </Tracking>
 </QCARConfig>
