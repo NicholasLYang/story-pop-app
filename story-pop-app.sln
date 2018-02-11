@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "story-pop-app", "Assembly-CSharp.csproj", "{909F3C1D-6E84-F979-AF73-0A811BCC17F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "story-pop-app", "Assembly-CSharp-Editor.csproj", "{649D5ED4-1153-1647-7803-B8F73F0F567C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{909F3C1D-6E84-F979-AF73-0A811BCC17F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{909F3C1D-6E84-F979-AF73-0A811BCC17F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{909F3C1D-6E84-F979-AF73-0A811BCC17F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{909F3C1D-6E84-F979-AF73-0A811BCC17F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{649D5ED4-1153-1647-7803-B8F73F0F567C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{649D5ED4-1153-1647-7803-B8F73F0F567C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{649D5ED4-1153-1647-7803-B8F73F0F567C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{649D5ED4-1153-1647-7803-B8F73F0F567C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
